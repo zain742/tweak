@@ -1,2 +1,1 @@
-# tweak
-install
+# HomeGesture.plist
